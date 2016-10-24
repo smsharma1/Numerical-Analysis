@@ -1,0 +1,6 @@
+Interpolated values of y* at given x* 
+Clamped spline: 
+-0.8000 -0.0793
+-0.2000 0.7748
+0.2000 0.7868
+0.8000 -0.1222

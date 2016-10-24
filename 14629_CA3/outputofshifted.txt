@@ -1,0 +1,13 @@
+Shifted Power Method
+
+Eigenvalue =
+ 8.1461
+
+Eigenvector =
+ 0.9356
+-0.3085
+ 0.1718
+
+Iterations =
+6
+

@@ -1,0 +1,10 @@
+x = [];
+y = [];
+fileid=fopen('input.txt','r');
+data = textscan(fileid, '%f %f');
+x(1:numel(data{1}), 1) = data{1};
+y(1:numel(data{2}), 1) = data{2};
+fclose(fileid);
+prompt = 'Enter the degree ';
+m = input(prompt);
+leastsquare(x,y,m);
